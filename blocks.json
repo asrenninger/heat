@@ -1,0 +1,1642 @@
+{
+  "properties": {
+    "note": "This collection of points represents a results set of visually similar locations.  It was created using Terrapattern.",
+    "url": "http://www.terrapattern.com",
+    "timestamp": "2019-12-17 17:24:15 +0000"
+  },
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "New_York_40.7621793_-73.9918749_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0758831,
+          "y": 0.174533
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9918749,
+          40.7621793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7381443_-74.0007994_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.267542,
+          "y": 0.135763
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0007994,
+          40.7381443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7820343_-73.9472524_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.526036,
+          "y": -0.00375223
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9472524,
+          40.7820343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7438918_-74.0007994_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.353494,
+          "y": -0.207981
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0007994,
+          40.7438918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8008443_-73.9410739_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.0554211,
+          "y": -0.0546585
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9410739,
+          40.8008443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8081593_-73.9403874_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0390201,
+          "y": 0.0787897
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9403874,
+          40.8081593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7627018_-73.9946209_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.457313,
+          "y": -0.0237654
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9946209,
+          40.7627018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7679268_-73.9870694_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -1,
+          "y": -0.0260043
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9870694,
+          40.7679268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7804668_-73.9541174_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.626697,
+          "y": 0.739484
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9541174,
+          40.7804668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7715843_-73.9548039_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.348924,
+          "y": 0.368397
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9548039,
+          40.7715843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7715843_-73.9589229_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.102577,
+          "y": 0.178988
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9589229,
+          40.7715843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7877818_-73.9719664_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.513512,
+          "y": -0.204599
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9719664,
+          40.7877818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7914393_-73.9781449_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.123506,
+          "y": 0.308758
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9781449,
+          40.7914393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8374193_-73.9163599_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.309942,
+          "y": 0.0191785
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9163599,
+          40.8374193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7694943_-73.9877559_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.295505,
+          "y": -0.0758305
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9877559,
+          40.7694943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8384643_-73.9101814_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.45125,
+          "y": 0.0338475
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9101814,
+          40.8384643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7898718_-73.9781449_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.136997,
+          "y": 0.339119
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9781449,
+          40.7898718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7606118_-73.9939344_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0929832,
+          "y": 0.516939
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9939344,
+          40.7606118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7616568_-73.9651014_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.658756,
+          "y": -0.0129235
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9651014,
+          40.7616568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7485943_-73.9403874_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.268341,
+          "y": 0.21056
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9403874,
+          40.7485943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7836018_-73.9733394_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.290919,
+          "y": 0.791209
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9733394,
+          40.7836018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7209018_-73.9788314_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.355369,
+          "y": 0.408937
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9788314,
+          40.7209018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7883043_-73.9733394_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.457493,
+          "y": 0.134247
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9733394,
+          40.7883043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8233118_-73.9163599_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.359859,
+          "y": -0.352166
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9163599,
+          40.8233118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8541393_-73.8834079_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.0170463,
+          "y": 0.257573
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8834079,
+          40.8541393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7595668_-73.9911884_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.179137,
+          "y": 0.923123
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9911884,
+          40.7595668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8133843_-73.9163599_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.463749,
+          "y": -0.0495169
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9163599,
+          40.8133843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7611343_-73.9891289_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.559718,
+          "y": -0.242537
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9891289,
+          40.7611343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8180868_-73.9541174_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.296781,
+          "y": -0.38389
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9541174,
+          40.8180868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8431668_-73.9410739_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.706216,
+          "y": 0.458395
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9410739,
+          40.8431668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7256043_-73.9994264_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.0580736,
+          "y": -0.142455
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9994264,
+          40.7256043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7224693_-73.9808909_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.223225,
+          "y": -0.452842
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9808909,
+          40.7224693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7888268_-73.9431334_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.231201,
+          "y": 0.436546
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9431334,
+          40.7888268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7647918_-73.9911884_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.783344,
+          "y": -0.0158687
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9911884,
+          40.7647918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7438918_-73.9973669_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.792982,
+          "y": 0.00381398
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9973669,
+          40.7438918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8290593_-73.9431334_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.141369,
+          "y": 0.734635
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9431334,
+          40.8290593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7621793_-73.9623554_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.102152,
+          "y": 0.635367
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9623554,
+          40.7621793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7668818_-73.9932479_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.585949,
+          "y": 0.43351
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9932479,
+          40.7668818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8854893_-73.9129274_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.370085,
+          "y": -0.495794
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9129274,
+          40.8854893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8149518_-73.9369549_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.828322,
+          "y": -0.511049
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9369549,
+          40.8149518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8614543_-73.9074354_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.0322191,
+          "y": 0.248885
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9074354,
+          40.8614543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7809893_-73.9513714_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.263291,
+          "y": -0.120246
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9513714,
+          40.7809893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7903943_-73.9438199_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.642117,
+          "y": 0.0924605
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9438199,
+          40.7903943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7282168_-73.9788314_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.193313,
+          "y": 0.443652
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9788314,
+          40.7282168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7611343_-73.9932479_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0719728,
+          "y": 0.252293
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9932479,
+          40.7611343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7423243_-74.0028589_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.26908,
+          "y": -0.299278
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0028589,
+          40.7423243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7637468_-73.9877559_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.322184,
+          "y": 0.671827
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9877559,
+          40.7637468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7276943_-73.9815774_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.887693,
+          "y": 0.132379
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9815774,
+          40.7276943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8520493_-73.9397009_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.22173,
+          "y": -0.0281088
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9397009,
+          40.8520493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7851693_-73.9774584_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.462922,
+          "y": 0.131931
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9774584,
+          40.7851693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8024118_-73.9348954_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.174631,
+          "y": -0.282515
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9348954,
+          40.8024118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.6848493_-74.0035454_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.542714,
+          "y": -0.415202
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0035454,
+          40.6848493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7877818_-73.9795179_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.183697,
+          "y": -0.152295
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9795179,
+          40.7877818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7778543_-73.9802044_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.426128,
+          "y": 0.0935587
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9802044,
+          40.7778543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8097268_-73.9458794_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.19429,
+          "y": -0.326837
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9458794,
+          40.8097268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8698143_-73.8991974_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.400112,
+          "y": -0.397298
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8991974,
+          40.8698143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8295818_-73.9122409_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.273541,
+          "y": -0.514624
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9122409,
+          40.8295818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7752418_-73.9513714_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.457014,
+          "y": 0.866763
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9513714,
+          40.7752418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7606118_-73.9918749_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.394924,
+          "y": 0.179025
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9918749,
+          40.7606118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7355318_-73.9850099_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.806884,
+          "y": -0.708463
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9850099,
+          40.7355318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8081593_-73.9506849_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.219822,
+          "y": 0.803708
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9506849,
+          40.8081593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8572743_-73.9033164_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0198392,
+          "y": 0.259705
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9033164,
+          40.8572743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8306268_-73.9294034_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.00605708,
+          "y": -0.0537803
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9294034,
+          40.8306268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7632243_-73.9905019_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.38805,
+          "y": 0.201924
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9905019,
+          40.7632243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7663593_-73.9651014_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.282759,
+          "y": -0.225971
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9651014,
+          40.7663593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7386668_-73.9788314_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.436255,
+          "y": 0.100471
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9788314,
+          40.7386668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7480718_-73.9740259_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.244394,
+          "y": -0.00714946
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9740259,
+          40.7480718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7250818_-73.9795179_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.365849,
+          "y": -0.0768261
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9795179,
+          40.7250818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7276943_-73.9802044_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.374525,
+          "y": 0.543435
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9802044,
+          40.7276943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7428468_-74.0007994_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.956999,
+          "y": 0.0446111
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0007994,
+          40.7428468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.6733543_-73.9802044_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.14179,
+          "y": -0.162485
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9802044,
+          40.6733543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8614543_-73.9046894_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.430989,
+          "y": 0.0172286
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9046894,
+          40.8614543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7741968_-73.9506849_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.717126,
+          "y": 0.374111
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9506849,
+          40.7741968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7773318_-73.9486254_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.720235,
+          "y": 0.195149
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9486254,
+          40.7773318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7893493_-73.9424469_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.683829,
+          "y": 0.122281
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9424469,
+          40.7893493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8159968_-73.9534309_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0406378,
+          "y": -0.628975
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9534309,
+          40.8159968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7647918_-73.9898154_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.441289,
+          "y": 0.00428581
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9898154,
+          40.7647918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7224693_-73.9898154_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.238505,
+          "y": 0.467894
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9898154,
+          40.7224693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7872593_-73.9760854_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.486086,
+          "y": 0.403889
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9760854,
+          40.7872593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7799443_-73.9486254_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.429674,
+          "y": 0.757295
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9486254,
+          40.7799443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8457793_-73.9397009_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.404083,
+          "y": -0.12244
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9397009,
+          40.8457793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8154743_-73.9451929_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.894683,
+          "y": 1
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9451929,
+          40.8154743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7323968_-73.9980534_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.200712,
+          "y": 0.150446
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9980534,
+          40.7323968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7475493_-74.0062914_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.410904,
+          "y": -0.153619
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0062914,
+          40.7475493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8227893_-73.9081219_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.808872,
+          "y": -0.20519
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9081219,
+          40.8227893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7647918_-73.9403874_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0031631,
+          "y": -0.739913
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9403874,
+          40.7647918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7444143_-73.9740259_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.461797,
+          "y": -0.664995
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9740259,
+          40.7444143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8374193_-73.9136139_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.539444,
+          "y": -0.28471
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9136139,
+          40.8374193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8368968_-73.9081219_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.0741231,
+          "y": 0.227653
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9081219,
+          40.8368968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8525718_-73.9300899_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 0.165007,
+          "y": 0.267944
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9300899,
+          40.8525718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.6968668_-73.9932479_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.352474,
+          "y": -1
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9932479,
+          40.6968668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8483918_-73.9129274_z19.png",
+      "properties": {
+        "cluster": {
+          "x": 1,
+          "y": -0.420783
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9129274,
+          40.8483918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7689718_-73.9568634_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.00896257,
+          "y": 0.499597
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9568634,
+          40.7689718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7679268_-73.9149869_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.0212213,
+          "y": -0.537827
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9149869,
+          40.7679268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.8149518_-73.9410739_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.687639,
+          "y": 0.522781
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9410739,
+          40.8149518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "New_York_40.7919618_-73.9390144_z19.png",
+      "properties": {
+        "cluster": {
+          "x": -0.82385,
+          "y": 0.10674
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9390144,
+          40.7919618
+        ]
+      }
+    }
+  ]
+}
