@@ -177,21 +177,3 @@ var gifParams = {
 
 print(ui.Thumbnail(rgbVis, gifParams));
 ```
-
-7. **Fill out your sections as needed.**  Give each section a unique name in the section `id` property. This will become the HTML `div` `id`, so avoid spaces in the name. The `title`, `description` properties are optional. The `description` supports HTML tags. If you have an image that goes with that section of the story, add the path to the image in the `image` property.
-
-8. For `location`, you can use the `helper.html` file to help you determine the map's position. This tool prints the location settings of the map on the screen in a format ready for copy/paste into the template.
-
-9. Repeat until you have the location entered for each of your sections.
-
-10. Open `index.html` in a browser, and scroll. Voila!
-
-#### Generate Map Position Using `Helper.html`
-
-Using the `helper.html` file, you can search for places, zoom, pan, tilt, and rotate the map to get the desired map position (_Hint_: To tilt and rotate the map, right-click and drag the map).
-
-Notice the location parameters are updated in the upper left corner with everytime you move the map. You can copy the location definition from that page into the `config.js` `location` property section.
-
-There is also a hosted version of this file at [https://demos.mapbox.com/location-helper/](https://demos.mapbox.com/location-helper/)
-
-![location helper screen capture](assets/locationhelper.gif)
