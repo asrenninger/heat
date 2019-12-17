@@ -1,20 +1,12 @@
-- [Interactive Storytelling](#scrollytelling-template-for-journalists)
-  * [compromises](#compromises)
-  * [Getting Started](#getting-started)
-    + [Vanilla JS](#vanilla-js)
-      - [Steps](#steps)
-      - [Generate Map Position Using `Helper.html`](#generate-map-position-using--helperhtml-)
-      - [Configuration File and Layer Settings](#configuration-file-and-layer-settings)
-      - [Configuration Options](#configuration-options)
-      - [Mapbox Studio Style Configuration](#mapbox-studio-style-configuration)
-    + [React](#react)
-      - [Installation and dependencies](#installation-and-dependencies)
-    + [Organization](#organization)
-  * [Deployment](#deployment)
-  * [Built With](#built-with)
-  * [Authors](#authors)
-  * [License](#license)
-  * [Acknowledgments](#acknowledgments)
+# An Application to Discover and Map Heat Islands
+###### Andrew Renninger
+
+# CONTENTS
+- [INSPIRATION](#INSPIRATION)
+- [EXPLORATION](#EXPLORATION)
+- [INVESTIGATION](#INVESTIGATION)
+- [EXPECTATION](#EXPECTATION)
+- [EXPLANATION](#EXPLANATION)
 
 # INSPIRATION
 The goal of this project is to create a process by which we can understand urban heat islands—the phenomenon wherein built and natural conditions conspire to raise temperature in urban areas during periods of hot weather—with readily accessibly data from satellite images. During a spell of hot weather in late July 2019, mercury levels in Philadelphia remained above 90 degrees Fahrenheit during the day and even held above 80 over night. Yet this swelter was not felt equally across the city: the hottest and coolest—comparably—portions of the city differed by as much as 20 degrees. A park could be bearable; a parking lot could be insufferable. Each neighborhood sees unique effects from sun and heat and each season is different. Because of this, this following project is an application that can be used by all. While this application represents a high cost to build, it yields a low cost for experimentation. The subsequent exploration is modest, but folding new cities into it and layering new methods onto only becomes easier with such an interface. Additionally, because it lacks advanced statistical analysis, forgoing the statistical for the graphical, it serves as a means to travel the globe by satellite—more qualitatively than quantitatively and with breadth rather than depth, although by allowing for such travel is by no means trivial.         
@@ -123,48 +115,6 @@ The lion's share of time on this project went to developing a graphical interfac
 
 # EXPLANATION
 The following code executes this project. None of it is my own, though some combinations—amalgamations of snippets and ideas—are from my mind. For an introduction to Earth Engine, see
-
-
-To configure and publish a story, you will need:
-- A Mapbox [access token](https://docs.mapbox.com/help/glossary/access-token). Sign up for a free account at [mapbox.com](https://www.mapbox.com/signup/) to get one.
-
-- A text editor. Atom, Sublime Text, and Visual Studio Code are all fine choices.
-
-- A place to publish your work. Any service that hosts static files that can be accessed with a browser will do.
-
-- A story. This is unquestionably the hardest part. The best stories for this template will have sections that benefit from a map.
-
-- Attention to detail. The configuration file does require specific syntax and punctuation. Braces, brackets, commas, and quotes are important. Follow the `config.js.template` for guidance. Some familiarity with [JSON]('https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/') is recommended.
-
-- Optionally, some spatial data in your Mapbox map. The template has options to include layer names to show and hide the data as the story sections transition. You may want to highlight a neighborhood, or show satellite data from two different times.
-
-The template does not rely on any particular CSS framework, fonts, or images. There are some basic styles in the `head` of the HTML file that can be changed, so feel free to adapt and add to these to match your site and story brand.
-
-![example story screen capture](assets/glacierdemo.gif)
-
-## Getting Started
-
-- Download this repository as a ZIP file using the button above, and unzip it. If you are using `git`, clone this repository.
-
-- If you are new to coding in JavaScript, follow the instructions for Vanilla JS. If you are already working with React, are comfortable with the command line and build systems, and/or want bundled and minified code, choose React.
-
-### Vanilla JS
-
-In your local copy of this repository (the unzipped file you downloaded), navigate to the `src/vanilla-js/` directory.
-
-Make a copy of `config.js.template` and name it `config.js`. Open the new `config.js` file in your text editor.
-
-#### Steps
-
-1. **Select the map style** you want to use (the default is Mapbox Streets, but you can find more here https://docs.mapbox.com/api/maps/#styles, or use one of your custom Studio styles).
-
-2. **Add a Mapbox access token.** A good practice is to [create a separate](https://docs.mapbox.com/help/how-mapbox-works/access-tokens/#creating-and-managing-access-tokens) token per map to be able to track traffic to your different maps.
-
-3. **Choose whether or not to display a marker** at the center of each map location.
-
-4. **Choose a theme for the story text**. There are `light` and `dark` options.
-
-5. **Choose where your story should be aligned over the map**. Options are `center`, `left`, `right`.
 
 ## How to Animate of Year of Surface Temperature
 
