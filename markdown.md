@@ -96,7 +96,7 @@ One feature of note is that most business districts and the glass edifices that 
 
 
 
-# Investigations
+# INVESTIGATION
 We can also test a clear hypothesis with hypothesis with this interface. New York City is defined by distinct built typologies, with towers in the park, houses on a block, low mixed use, high residential and higher commercial, and much more. The website [terrapattern](http://www.terrapattern.com/) allows any user to pick a square of urbanism in a select assemblage of cities and see similar forms and structures throughout the rest of that city. We can use this service to find points that correspond to features of natural and built environment, rather than selecting manually as the application facilitates.  
 
 Below we consider:
